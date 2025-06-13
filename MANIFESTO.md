@@ -218,7 +218,7 @@ While industry has since begun adopting similar approaches, they typically stop 
 
 While still in early stages, **Telos** initial results are promising. I'm releasing this as is to invite collaboration and discussion.
 
-I'm working on releasing this as an open-source framework in python as a proof of concept, but could be extended to any programming language.
+I'm working on releasing this as an open-source framework in python as a proof of concept, but could be extended to any ~~programming~~ language.
 
 ## Conclusion
 
